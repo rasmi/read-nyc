@@ -1,4 +1,4 @@
 scripts/
 api/credentials.py
-*.db
+api/readnyc.db
 *.pyc
