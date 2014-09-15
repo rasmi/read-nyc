@@ -13,8 +13,8 @@ class User(db.Model):
 	email = db.Column(db.String(120), unique=True)
 	phone = db.Column(db.String(12), unique=True)
 	zipcode = db.Column(db.String(5), unique=False)
-	library = db.relationship('Library', backref='user', lazy='dynamic', uselist=False)
-	libraries = db.relationship('Library', backref='user', lazy='dynamic')
+	main_library = db.relationship('Library', backref='user', uselist=False)
+	libraries = db.relationship('Library', backref='users', lazy='dynamic')
 
 	def __init__(self, phone, zipcode):
 		self.phone = phone
@@ -29,6 +29,7 @@ class User(db.Model):
 class Library(db.Model):
 	__tablename__ = 'libraries'
 	id = db.Column(db.Integer, primary_key=True)
+	user_id = db.Column(db.Integer, db.ForeignKey('users.id'))
 	city = db.Column(db.String(20), unique=False)
 	additional_address_information = db.Column(db.String(10), unique=False)
 	longitude = db.Column(db.Float, unique=False)
@@ -50,6 +51,28 @@ class Library(db.Model):
 	facility_type = db.Column(db.String(10), unique=False)
 	facility_name = db.Column(db.String(75), unique=False)
 	#features = db.Column(db.String(30), unique=False)
+
+	def __init__(self, args):
+		self.city = args['city']
+		self.additional_address_information = args['additional_address_information']
+		self.longitude = args['longitude']
+		self.description = args['description']
+		self.displayed_hours = args['displayed_hours']
+		self.eligibility_information = args['eligibility_information']
+		self.brief_description = args['brief_description']
+		self.zipcode = args['zipcode']
+		self.value = args['value']
+		self.label = args['label']
+		self.latitude = args['latitude']
+		self.state = args['state']
+		self.facility_id = args['id']
+		self.expiration = args['expiration']
+		self.long = args['long']
+		self.address = args['address']
+		self.lat = args['lat']
+		self.borough = args['borough']
+		self.facility_type = args['type']
+		self.facility_name = args['facility_name']
 
 	def __repr__(self):
 		return '<Library %r>' % self.facility_name
