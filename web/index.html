@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" ng-app="readnyc">
+<head>
+  <meta charset="utf-8">
+  <title>Read NYC</title>
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <script src="js/angular.js"></script>
+  <script src="js/ui-bootstrap.js"></script>
+  <script src="js/ui-utils.js"></script>
+  <script src="js/app.js"></script>
+</head>
+<body ng-controller="signupCtrl">
+  <div class="container">
+    <div class="row" ng-show="!submitted">
+      <h1>Sign up for reminders about Library events!</h1>
+      <br />
+      <div class="col-md-3 signup-container">
+          <form role="form" name="signupForm" novalidate>
+            <fieldset>
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" id="name" placeholder="Bill de Blasio" ng-model="user.name" required>
+              </div>
+              <div class="form-group">
+                <label for="phone">Phone Number</label>
+                <input type="tel" class="form-control" id="phone" ng-model="user.phone" ui-mask="(999) 999-9999" required>
+              </div>
+              <div class="form-group">
+                <label for="zipcode">Zip Code</label>
+                <input type="text" ui-mask="99999" class="form-control" id="zipcode" ng-model="user.zipcode" required>
+              </div>
+            </fieldset>
+          </form>
+          <label>Which days are you free for library events?</label><br />
+          <div class="btn-group-vertical">
+             <button class="btn btn-default" ng-model="user.dayOption" ng-repeat="option in dayOptions" btn-radio="option.value">{{option.label}}</button>
+          </div>
+          <br />
+          <br />
+          <button class="btn btn-primary" ng-disabled="signupForm.$invalid || !user.dayOption" ng-click="submit()">Sign up</button>
+    </div>
+  </div>
+  <div class="row" ng-show="submitted">
+      <h1>Thanks for signing up, {{user.name}}!</h1>
+      <h3>You will receive event updates for your local libraries.</h3>
+  </div>
+</body>
+</html>

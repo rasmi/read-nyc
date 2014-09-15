@@ -1,0 +1,2734 @@
+[
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "1+2803",
+    "facility_name": "115th Street Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10026",
+    "longitude": -73.9535313,
+    "label": "115th Street",
+    "lat": "0231728",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0997149",
+    "address": "203 West 115th Street",
+    "latitude": 40.8029198,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149640022e9a",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "2+725+417+726",
+    "facility_name": "125th Street Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10035",
+    "longitude": -73.935251,
+    "label": "125th Street",
+    "lat": "0231980",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1002217",
+    "address": "224 East 125th Street",
+    "latitude": 40.803456,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149740022e9c",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri: 10:00 AM - 5:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "3+418+627",
+    "facility_name": "58th Street Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10022",
+    "longitude": -73.9689393,
+    "label": "58th Street",
+    "lat": "0216818",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0992822",
+    "address": "127 East 58th Street",
+    "latitude": 40.761743,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20060209-01326882-998A-11DA-8C14-D16EE7B284C5",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri: 10:00 AM - 5:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "4+420+421+678",
+    "facility_name": "67th Street Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10065",
+    "longitude": -73.95956199999999,
+    "label": "67th Street",
+    "lat": "0218083",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0995367",
+    "address": "328 East 67th Street",
+    "latitude": 40.764884,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20081009-DB2C2A2C-9613-11DD-8E9F-96DAE110FEB8",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Thu: 10:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "5+638+639+640",
+    "facility_name": "96th Street Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10128",
+    "longitude": -73.95183,
+    "label": "96th Street",
+    "lat": "0225745",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0997557",
+    "address": "112 East 96th Street",
+    "latitude": 40.785927,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149640022e99",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 1:00 PM - 6:00 PM; Tue: 12:00 PM - 6:00 PM; Wed: 1:00 PM - 6:00 PM; Thu: 12:00 PM - 6:00 PM; Sat: 1:00 PM - 5:00 PM",
+    "state": "NY",
+    "value": "6+968",
+    "facility_name": "Aguilar Center for Reading and Writing Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10029",
+    "longitude": -73.9432459,
+    "label": "Aguilar",
+    "lat": "0228720",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0999874",
+    "address": "174 East 110th Street",
+    "latitude": 40.7943107,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149740022e9e",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Computers"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "7+426+425",
+    "facility_name": "Allerton Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10467",
+    "longitude": -73.863198,
+    "label": "Allerton",
+    "lat": "0254881",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1022008",
+    "address": "2740 Barnes Avenue",
+    "latitude": 40.866794,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148c40022e65",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan - central branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 5:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 10:00 AM - 5:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "8+431+432+428+429",
+    "facility_name": "Andrew Heiskell Library for the Blind and Physically Handicapped Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10011",
+    "longitude": -73.993383,
+    "label": "Andrew Heiskell",
+    "lat": "0208968",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0986376",
+    "address": "40 West 20th Street",
+    "latitude": 40.74045599999999,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148b40022e5e",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "longitude": -74.0156092,
+    "description": "Manhattan branch of the New York Public Library system.",
+    "facility_name": "Battery Park Library",
+    "label": "Battery Park City",
+    "value": "2787+2790",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "zipcode": "10282",
+    "long": "0979968",
+    "id": "20100319-8C2DCD40-3374-11DF-BC2C-96DAE110FEB8",
+    "latitude": 40.7155997,
+    "state": "NY",
+    "features": [
+      
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "175 North End Avenue",
+    "lat": "0200048",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 12:00 AM - 8:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 12:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "borough": "MANHATTAN"
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri: - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "9+434",
+    "facility_name": "Baychester Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10475",
+    "longitude": -73.8278926,
+    "label": "Baychester",
+    "lat": "0256697",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1031405",
+    "address": "2049 Asch Loop North",
+    "latitude": 40.8710004,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148c40022e66",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed - Thu: 12:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "10+2705+358+359+356+674",
+    "facility_name": "Belmont Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10458",
+    "longitude": -73.8877378,
+    "label": "Belmont",
+    "lat": "0250626",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1015293",
+    "address": "610 East 186th Street",
+    "latitude": 40.8545488,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148c40022e67",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed - Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "11+362+360",
+    "facility_name": "Bloomingdale Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10025",
+    "longitude": -73.967868,
+    "label": "Bloomingdale",
+    "lat": "0229301",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0993366",
+    "address": "150 West 100th Street",
+    "latitude": 40.795943,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149740022e9f",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library. ",
+    "displayed_hours": "Mon - Sat: 9:00 AM - 9:00 PM; Sun: 12:00 PM - 6:00 PM",
+    "state": "NY",
+    "value": "12+440+704+159+100+439+155+882+883+92+157",
+    "facility_name": "Bronx Library Center",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10458",
+    "longitude": -73.894279,
+    "label": "Bronx Library Center",
+    "lat": "0253783",
+    "brief_description": "Bronx New York Public Library branch. ",
+    "long": "1013512",
+    "address": "310 East Kingsbridge Road",
+    "latitude": 40.8627384,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20080825-22BEF05E-72B5-11DD-8E9F-96DAE110FEB8",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "13",
+    "facility_name": "Castle Hill Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10473",
+    "longitude": -73.85015899999999,
+    "label": "Castle Hill",
+    "lat": "0240455",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1025818",
+    "address": "947 Castle Hill Avenue",
+    "latitude": 40.826618,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148d40022e68",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Thu: 10:00 AM - 6:00 PM; Fri: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "14",
+    "facility_name": "Terrence Cardinal Cooke-Cathedral Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10022",
+    "longitude": -73.972635,
+    "label": "Cathedral",
+    "lat": "0214946",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0991934",
+    "address": "560 Lexington Avenue",
+    "latitude": 40.756861,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149d40022ebc",
+    "features": [
+      {
+        "feature_name": "Computers"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Thu: 10:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "15+256+459+666",
+    "facility_name": "Chatham Square Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10002",
+    "longitude": -73.996487,
+    "label": "Chatham Square",
+    "lat": "0199237",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0985262",
+    "address": "33 East Broadway",
+    "latitude": 40.713316,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149740022ea0",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue - Wed: 11:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "16+464+465",
+    "facility_name": "City Island Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10464",
+    "longitude": -73.7863239,
+    "label": "City Island",
+    "lat": "0248150",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1043288",
+    "address": "320 City Island Avenue",
+    "latitude": 40.847696,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148d40022e69",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system. ",
+    "displayed_hours": "Mon: 10:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "17+2784+466+2785+329",
+    "facility_name": "Clason's Point Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10472",
+    "longitude": -73.874993,
+    "label": "Clason's Point",
+    "lat": "0241717",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1018911",
+    "address": "1215 Morrison Avenue",
+    "latitude": 40.829952,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148d40022e6a",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system. ",
+    "displayed_hours": "Mon: 11:00 AM - 8:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 11:00 AM - 8:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "18+469+630+7646+629",
+    "facility_name": "Columbus Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10019",
+    "longitude": -73.991197,
+    "label": "Columbus",
+    "lat": "0217996",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0986597",
+    "address": "742 10th Avenue",
+    "latitude": 40.764929,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149840022ea1",
+    "features": []
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Thu: 10:00 AM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "19+247+7647+449+294+295+293+249+276+297+250",
+    "facility_name": "Countee Cullen Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10030",
+    "longitude": -73.9408352,
+    "label": "Countee Cullen",
+    "lat": "0236208",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1000604",
+    "address": "104 West 136th Street",
+    "latitude": 40.8149696,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149840022ea2",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "20",
+    "facility_name": "Dongan Hills Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10304",
+    "longitude": -74.10114399999999,
+    "label": "Dongan Hills",
+    "lat": "0154455",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0956225",
+    "address": "1617 Richmond Road",
+    "latitude": 40.590365,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149340022e8b",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed - Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "22",
+    "facility_name": "Eastchester Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10469",
+    "longitude": -73.84501399999999,
+    "label": "Eastchester",
+    "lat": "0256328",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1026959",
+    "address": "1385 East Gun hill Road",
+    "latitude": 40.870128,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148d40022e6b",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "23",
+    "facility_name": "Edenwald Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10466",
+    "longitude": -73.840606,
+    "label": "Edenwald",
+    "lat": "0263056",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1028254",
+    "address": "1255 East 233rd Street",
+    "latitude": 40.8886255,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148d40022e6c",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 10:00 AM - 6:00 PM;  Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "24",
+    "facility_name": "Epiphany Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10010",
+    "longitude": -73.9821764,
+    "label": "Epiphany",
+    "lat": "0208330",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0989136",
+    "address": "228 East 23rd Street",
+    "latitude": 40.7383786,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149840022ea4",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "25+379+380",
+    "facility_name": "Fort Washington Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10033",
+    "longitude": -73.93383399999999,
+    "label": "Fort Washington",
+    "lat": "0248071",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1002616",
+    "address": "535 West 179th Street",
+    "latitude": 40.847896,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149840022ea5",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue - Thu: 10:00 AM - 6:00 PM; Fri -Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "26+383+875+381",
+    "facility_name": "Francis Martin Regional Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10453",
+    "longitude": -73.9095986,
+    "label": "Francis Martin",
+    "lat": "0251658",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1009242",
+    "address": "2150 University Avenue",
+    "latitude": 40.8574347,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148d40022e6d",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "27+483+482+658",
+    "facility_name": "George Bruce Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10027",
+    "longitude": -73.9569054,
+    "label": "George Bruce",
+    "lat": "0235831",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0996208",
+    "address": "518 West 125th Street",
+    "latitude": 40.8141665,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149940022ea6",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed - Fri: 11:00 AM - 6:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "871+2772+998",
+    "facility_name": "Grand Central Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10017",
+    "longitude": -73.97375699999999,
+    "label": "Grand Central",
+    "lat": "0213925",
+    "brief_description": "Manhattan New York Public Library branch. ",
+    "long": "0991503",
+    "address": "135 East 46th Street ",
+    "latitude": 40.753508,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20100408-65BCE8D2-4317-11DF-9203-EDEEAAA0CC41",
+    "features": []
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 8:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 8:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "28+485+484+486",
+    "facility_name": "Grand Concourse Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10457",
+    "longitude": -73.910071,
+    "label": "Grand Concourse",
+    "lat": "0246718",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1009102",
+    "address": "155 East 173rd Street",
+    "latitude": 40.843997,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148e40022e6f",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "29+657",
+    "facility_name": "Great Kills Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10308",
+    "longitude": -74.1508395,
+    "label": "Great Kills",
+    "lat": "0140590",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0942326",
+    "address": "56 Giffords Lane",
+    "latitude": 40.5524889,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149340022e8c",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.  ",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "30+349+348",
+    "facility_name": "Hamilton Fish Park Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10021",
+    "longitude": -73.97934769999999,
+    "label": "Hamilton Fish Park",
+    "lat": "0201607",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0990037",
+    "address": "415 East Houston Street",
+    "latitude": 40.7199291,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20081009-FB31FF04-9613-11DD-8E9F-96DAE110FEB8",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "longitude": -73.947886,
+    "description": "Manhattan branch of the New York Public Library system.  ",
+    "facility_name": "Hamilton Grange Library",
+    "label": "Hamilton Grange",
+    "value": "31+716+714+2698",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "zipcode": "10031",
+    "long": "0998628",
+    "id": "2002-12-06-16-20-05_000010083df1149940022ea8",
+    "latitude": 40.8253819,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "503 West 145th Street",
+    "lat": "0240008",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "borough": "MANHATTAN"
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "32+844+969",
+    "facility_name": "Harlem Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10027",
+    "longitude": -73.943276,
+    "label": "Harlem",
+    "lat": "0232909",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0999972",
+    "address": "9 West 124th Street",
+    "latitude": 40.806215,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149940022eaa",
+    "features": []
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "33",
+    "facility_name": "High Bridge Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10452",
+    "longitude": -73.92358999999999,
+    "label": "High Bridge",
+    "lat": "0244661",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1005380",
+    "address": "78 West 168th Street",
+    "latitude": 40.837949,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148e40022e70",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.  ",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM;  Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "34",
+    "facility_name": "Hudson Park Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10014",
+    "longitude": -74.00530499999999,
+    "label": "Hudson Park",
+    "lat": "0205294",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0982801",
+    "address": "66 Leroy Street",
+    "latitude": 40.729928,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149a40022ead",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "longitude": -74.1932269,
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "facility_name": "Huguenot Park Library",
+    "label": "Huguenot Park",
+    "value": "35",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "zipcode": "10312",
+    "long": "0930567",
+    "id": "2002-12-06-16-20-05_000010083df1149440022e8d",
+    "latitude": 40.53408,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "830 Huguenot Avenue",
+    "lat": "0134081",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 7:00 PM; Tue - Wed: 10:00 AM - 6:00 PM; Thu: 10:00 AM - 7:00 PM; Fri: 12:00 PM - 5:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "37+387+874",
+    "facility_name": "Hunt's Point Regional Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10459",
+    "longitude": -73.8940425,
+    "label": "Hunt's Point",
+    "lat": "0237554",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1013642",
+    "address": "877 Southern Boulevard",
+    "latitude": 40.81864410000001,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148e40022e71",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "38+370+367+369",
+    "facility_name": "Inwood Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10034",
+    "longitude": -73.9253581,
+    "label": "Inwood",
+    "lat": "0254774",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1004697",
+    "address": "4790 Broadway",
+    "latitude": 40.8660035,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149a40022eae",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.  ",
+    "displayed_hours": "Mon: 10:00 AM - 8:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 10:00 AM - 8:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "39+402",
+    "facility_name": "Jefferson Market Regional Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10011",
+    "longitude": -73.999084,
+    "label": "Jefferson Market",
+    "lat": "0206809",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0984509",
+    "address": "425 Avenue of Americas",
+    "latitude": 40.734241,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149a40022eaf",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 8:00 PM; Tue - Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "40+873",
+    "facility_name": "Jerome Park Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10468",
+    "longitude": -73.901256,
+    "label": "Jerome Park",
+    "lat": "0255978",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1011593",
+    "address": "118 Eames Place",
+    "latitude": 40.869029,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148e40022e72",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 11:00 AM - 7:00 PM; Wed - Thu: 10:00 AM - 6:00 PM; Fri -Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "41+323+324",
+    "facility_name": "Kingsbridge Regional Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10463",
+    "longitude": -73.9080309,
+    "label": "Kingsbridge",
+    "lat": "0260065",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1009758",
+    "address": "280 West 231st Street",
+    "latitude": 40.880327,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148f40022e73",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.  This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "42+119+120",
+    "facility_name": "Kips Bay Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10016",
+    "longitude": -73.979916,
+    "label": "Kips Bay",
+    "lat": "0210221",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0989896",
+    "address": "446 Third Avenue",
+    "latitude": 40.743823,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149b40022eb0",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "longitude": -73.9840963,
+    "description": "Manhattan - research collection of the New York Public Library system, specializing in the performing arts: dance, music, and theatre.",
+    "facility_name": "New York Library for Performing Arts Library",
+    "label": "Library for the Performing Arts",
+    "value": "55+1006+224+196+220+219+1002+223+1003+225+7921+1000+226+2700+1004+1005+227+222+1112+1025+218+7585+200",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "zipcode": "10023",
+    "long": "0988378",
+    "id": "2002-12-06-16-20-05_000010083df1148a40022e5a",
+    "latitude": 40.7726297,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "40 Lincoln Center Plaza",
+    "lat": "0221208",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon: 12:00 PM - 8:00 PM; Tue, Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 8:00 PM; Fri: 11:00 AM - 6:00 PM; Sat: 10:00 AM - 6:00 PM",
+    "borough": "MANHATTAN"
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system. Includes a small African American experience collection.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue - Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "43",
+    "facility_name": "Macomb's Bridge Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10039",
+    "longitude": -73.9349862,
+    "label": "Macomb's Bridge",
+    "lat": "0240316",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1002043",
+    "address": "2650 Adam Clayton Powell Jr Boulevard",
+    "latitude": 40.8272154,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149b40022eb1",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 8:00 PM; Tue - Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "7892",
+    "facility_name": "Mariners Harbor Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10303",
+    "longitude": -74.166330,
+    "label": "Mariners Harbor",
+    "lat": "0145824",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0945915",
+    "address": "206 South Ave",
+    "latitude": 40.634783,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149440022e91MARINERSHARBOR",
+    "features": []
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri: 10:00 AM - 5:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "44",
+    "facility_name": "Melrose Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10451",
+    "longitude": -73.91784369999999,
+    "label": "Melrose",
+    "lat": "0240449",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1006981",
+    "address": "910 Morris Avenue",
+    "latitude": 40.8266287,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148f40022e74",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "longitude": -73.9817211,
+    "description": "Manhattan branch of the New York Public Library system.",
+    "facility_name": "Mid Manhattan Library",
+    "label": "Mid-Manhattan Library",
+    "value": "45+1113+690+7955+692+973+686+687+1127+1126+1114+1129+1130+1124+1128+688+1131+2701+7612+996",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "zipcode": "10016",
+    "long": "-73.9819536631412",
+    "id": "2002-12-06-16-20-05_000010083df1148b40022e60",
+    "latitude": 40.7519426,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "455 5th Avenue",
+    "lat": "40.752002562100465",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon - Thu: 8:00 AM - 11:00 PM; Fri: 8:00 AM - 8:00 PM; Sat - Sun: 10:00 AM - 6:00 PM",
+    "borough": "MANHATTAN"
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Thu: 10:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "46+624+622+625",
+    "facility_name": "Morningside Heights Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10025",
+    "longitude": -73.964826,
+    "label": "Morningside Heights",
+    "lat": "0232989",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0993876",
+    "address": "2900 Broadway",
+    "latitude": 40.806143,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149b40022eb2",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "632",
+    "facility_name": "Morris Park Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10462",
+    "longitude": -73.85669159999999,
+    "label": "Morris Park",
+    "lat": "0248226",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1023894",
+    "address": "985 Morris Park Avenue",
+    "latitude": 40.8479168,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20081009-10A6B53C-9614-11DD-8E9F-96DAE110FEB8",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "48",
+    "facility_name": "Morrisania Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10456",
+    "longitude": -73.9017997,
+    "label": "Morrisania",
+    "lat": "0242189",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1011334",
+    "address": "610 East 169th Street",
+    "latitude": 40.8312923,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148f40022e75",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 8:00 PM, Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 10:00 AM - 6:00 PM; Fri, Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "49+320+319+322",
+    "facility_name": "Mosholu Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10467",
+    "longitude": -73.878327,
+    "label": "Mosholu",
+    "lat": "0257798",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1017895",
+    "address": "285 East 205th Street",
+    "latitude": 40.87442600000001,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148f40022e76",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue -Wed: 10:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "50+619+626",
+    "facility_name": "Mott Haven Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10454",
+    "longitude": -73.9244262,
+    "label": "Mott Haven",
+    "lat": "0234948",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1005127",
+    "address": "321 East 140th Street",
+    "latitude": 40.81147480000001,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148f40022e77",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.  ",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 1:00 PM - 8:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 1:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "51+4796+4797",
+    "facility_name": "Muhlenberg Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10011",
+    "longitude": -73.99592899999999,
+    "label": "Muhlenberg",
+    "lat": "0210465",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0985295",
+    "address": "209 West 23rd Street",
+    "latitude": 40.744528,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149b40022eb3",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system. ",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "495",
+    "facility_name": "Mulberry Street Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10012",
+    "longitude": -73.99540979999999,
+    "label": "Mulberry Street",
+    "lat": "0203155",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0985437",
+    "address": "10 Jersey Street",
+    "latitude": 40.7240872,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "20070918-EFDF5628-6604-11DC-915C-81B3413BA529",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.  ",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 8:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "53+705+384",
+    "facility_name": "New Amsterdam Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10007",
+    "longitude": -74.0078108,
+    "label": "New Amsterdam",
+    "lat": "0199156",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0982099",
+    "address": "9 Murray Street",
+    "latitude": 40.7134787,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149b40022eb4",
+    "features": [
+      {
+        "feature_name": "Computers"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon - Wed: 10:00 AM - 6:00 PM; Thu: 12:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "54",
+    "facility_name": "New Dorp Regional Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10306",
+    "longitude": -74.1119609,
+    "label": "New Dorp",
+    "lat": "0147638",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0953044",
+    "address": "309 New Dorp Lane",
+    "latitude": 40.571929,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149440022e8e",
+    "features": [
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system. ",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "56",
+    "facility_name": "Ottendorfer Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10003",
+    "longitude": -73.9877939,
+    "label": "Ottendorfer",
+    "lat": "0204788",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0987698",
+    "address": "135 Second Avenue",
+    "latitude": 40.729036,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149c40022eb5",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Thu: 8:00 AM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "57+390+7648+881+2706",
+    "facility_name": "Parkchester Regional Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10462",
+    "longitude": -73.858364,
+    "label": "Parkchester",
+    "lat": "0242980",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1023478",
+    "address": "1985 Westchester Avenue",
+    "latitude": 40.8337549,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149040022e79",
+    "features": []
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "58",
+    "facility_name": "Pelham Bay Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10461",
+    "longitude": -73.827902,
+    "label": "Pelham Bay",
+    "lat": "0246993",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1031751",
+    "address": "3060 Middletown Road",
+    "latitude": 40.844292,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149040022e7a",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon - Wed: 10:00 AM - 6:00 PM; Thu: 12:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "59+393+391",
+    "facility_name": "Port Richmond Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10302",
+    "longitude": -74.1310518,
+    "label": "Port Richmond",
+    "lat": "0171551",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0947770",
+    "address": "75 Bennett Street",
+    "latitude": 40.6372791,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149440022e90",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 8:00 PM; Tue - Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "60+975+885+1027",
+    "facility_name": "Richmondtown Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10306",
+    "longitude": -74.138504,
+    "label": "Richmondtown",
+    "lat": "0145824",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0945915",
+    "address": "200 Clarke Avenue",
+    "latitude": 40.5666719,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149440022e91",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "61",
+    "facility_name": "Riverdale Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10471",
+    "longitude": -73.902599,
+    "label": "Riverdale",
+    "lat": "0268530",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1010999",
+    "address": "5540 Mosholu Avenue",
+    "latitude": 40.9036649,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149040022e7b",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "62",
+    "facility_name": "Riverside Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10023",
+    "longitude": -73.9846338,
+    "label": "Riverside",
+    "lat": "0221413",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0988490",
+    "address": "127 Amsterdam Avenue",
+    "latitude": 40.77447540000001,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149c40022eb6",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 8:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 10:00 AM - 8:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "63+318",
+    "facility_name": "Roosevelt Island Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10044",
+    "longitude": -73.9501214,
+    "label": "Roosevelt Island",
+    "lat": "0216699",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0998073",
+    "address": "524 Main Street",
+    "latitude": 40.761375,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149c40022eb7",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "New York Public Library research library dedicated to collecting and preserving resources documenting the experiences of peoples of African descent throughout the world. ",
+    "displayed_hours": "Tue - Thu: 12:00 PM - 8:00 PM; Fri - Sat: 10:00 AM - 6:00 PM",
+    "state": "NY",
+    "value": "64+2699+204+852+205+231+230+206+207+208+835+229+853",
+    "facility_name": "Schomburg Center for Research Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10037",
+    "longitude": -73.9379372,
+    "label": "Schomburg Center",
+    "lat": "0236057",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1000714",
+    "address": "515 Malcolm X Boulevard",
+    "latitude": 40.8182527,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1148a40022e5b",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "longitude": -73.9829675,
+    "description": "Manhattan - research collection of the New York Public Library system, specializing in science, industry and business.",
+    "facility_name": "Science Industry and Business Library",
+    "label": "Science, Industry and Business Library (SIBL)",
+    "value": "65+105+854+855+103+104+108+109+1122+112+856+857+858+859+113",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "zipcode": "10016",
+    "long": "0989005",
+    "id": "2002-12-06-16-20-05_000010083df1148b40022e5d",
+    "latitude": 40.7481504,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Computers"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "188 Madison Avenue",
+    "lat": "0211774",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue - Thu: 10:00 AM - 8:00 PM; Fri - Sat: 10:00 AM - 6:00 PM",
+    "borough": "MANHATTAN"
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "66+615+612+613+610",
+    "facility_name": "Sedgwick Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10453",
+    "longitude": -73.9168445,
+    "label": "Sedgwick",
+    "lat": "0248688",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1007149",
+    "address": "1701 Martin Luther King Jr Boulevard",
+    "latitude": 40.849669,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149040022e7c",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 8:00 PM; Tue: 10:00 AM - 8:00 PM; Wed: 10:00 AM - 7:00 PM; Thu: 10:00 AM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "67+169+170+168+171+167",
+    "facility_name": "Seward Park Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10002",
+    "longitude": -73.98854299999999,
+    "label": "Seward Park",
+    "lat": "0199484",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0987446",
+    "address": "192 East Broadway",
+    "latitude": 40.71445,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149d40022eba",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue - Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "68",
+    "facility_name": "Soundview Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10473",
+    "longitude": -73.8629363,
+    "label": "Soundview",
+    "lat": "0237385",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1022246",
+    "address": "660 Soundview Avenue",
+    "latitude": 40.8183639,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149140022e7d",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon - Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "69",
+    "facility_name": "South Beach Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10305",
+    "longitude": -74.0634037,
+    "label": "South Beach",
+    "lat": "0156299",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0966766",
+    "address": "21-25 Robin Road",
+    "latitude": 40.5956009,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149540022e92",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri: - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "70",
+    "facility_name": "Spuyten Duyvil Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10463",
+    "longitude": -73.914632,
+    "label": "Spuyten Duyvil",
+    "lat": "0262263",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1007855",
+    "address": "650 West 235th Street",
+    "latitude": 40.886242,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149140022e7e",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Tue, Thu: 11:00 AM - 5:00 PM; Fri: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "71+2782+2777+2780+2778+2781",
+    "facility_name": "St. Agnes Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10024",
+    "longitude": -73.97746599999999,
+    "label": "St. Agnes",
+    "lat": "0225169",
+    "brief_description": "Closed for renovation.",
+    "long": "0990564",
+    "address": "444 Amsterdam Avenue",
+    "latitude": 40.784841,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149c40022eb9",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "longitude": -74.0769818,
+    "description": "Staten Island branch of the New York Public Library system.",
+    "facility_name": "St. George Center for Reading and Writing Library",
+    "label": "St. George Library Center",
+    "value": "72+2796+385+412+414+1026+7650",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "zipcode": "10301",
+    "long": "0962902",
+    "id": "2002-12-06-16-20-05_000010083df1149340022e89",
+    "latitude": 40.6417833,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "5 Central Avenue",
+    "lat": "0173008",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon - Thu: 8:00 AM - 8:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system.",
+    "displayed_hours": "Closed for renovation.",
+    "state": "NY",
+    "value": "73+411",
+    "facility_name": "Stapleton Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10304",
+    "longitude": -74.0779974,
+    "label": "Stapleton",
+    "lat": "0167627",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0962601",
+    "address": "132 Canal Street",
+    "latitude": 40.6264585,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149540022e93",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "longitude": -73.983713,
+    "description": "Manhattan - research collection of the New York Public Library system, covering the humanities and social sciences.",
+    "facility_name": "Humanities and Social Sciences Library",
+    "label": "Stephen A. Schwarzman Building",
+    "value": "36+184+246+850+199+1035+202+444+445+165+166+182+1041+394+197+195+178+177+1040+179+175+851+172+176+180+847+173+198+7603+711+2800+848+192+447+621+7590+845+1030+1031+846+849+174+181+183",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "zipcode": "10018",
+    "long": "0989389",
+    "id": "2002-12-06-16-20-05_000010083df1148a40022e59",
+    "latitude": 40.753814,
+    "state": "NY",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Poetry Readings"
+      }
+    ],
+    "expiration": "12-31-2099T00:00:00Z",
+    "address": "476 5th Avenue",
+    "lat": "0213515",
+    "eligibility_information": "",
+    "type": "Library",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue, Wed: 10:00 AM - 9:00 PM; Thu - Sat: 10:00 AM - 6:00 PM; Sun: 1:00 PM - 5:00 PM",
+    "borough": "MANHATTAN"
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "74",
+    "facility_name": "Throg's Neck Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10465",
+    "longitude": -73.8176278,
+    "label": "Throg's Neck",
+    "lat": "0239096",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1034256",
+    "address": "3025 Cross Bronx Expressway",
+    "latitude": 40.8214784,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149140022e7f",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 12:00 PM - 8:00 PM; Wed - Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM; Sun: 1:00 PM - 5:00 PM",
+    "state": "NY",
+    "value": "75+888",
+    "facility_name": "Todt Hill-Westerleigh Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10314",
+    "longitude": -74.14822,
+    "label": "Todt Hill-Westerleigh",
+    "lat": "0161519",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0943128",
+    "address": "2550 Victory Boulevard",
+    "latitude": 40.609597,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149540022e94",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system. ",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 11:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "76+2743+2791+2695+2696+2744",
+    "facility_name": "Tompkins Square Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10009",
+    "longitude": -73.980412,
+    "label": "Tompkins Square",
+    "lat": "0204217",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0989603",
+    "address": "331 East 10th Street",
+    "latitude": 40.727305,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149d40022ebd",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 8:00 PM; Tue - Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "77",
+    "facility_name": "Tottenville Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10307",
+    "longitude": -74.2441934,
+    "label": "Tottenville",
+    "lat": "0125129",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0916361",
+    "address": "7430 Amboy Road",
+    "latitude": 40.509848,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149540022e95",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "78+810+7649",
+    "facility_name": "Tremont Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10457",
+    "longitude": -73.89833999999999,
+    "label": "Tremont",
+    "lat": "0247597",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1012335",
+    "address": "1866 Washington Avenue",
+    "latitude": 40.846042,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149140022e80",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system. ",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "79",
+    "facility_name": "Van Cortlandt Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10463",
+    "longitude": -73.893961,
+    "label": "Van Cortlandt",
+    "lat": "0260999",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1013498",
+    "address": "3874 Sedgwick Avenue",
+    "latitude": 40.8826899,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149140022e81",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "80",
+    "facility_name": "Van Nest Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10462",
+    "longitude": -73.8641729,
+    "label": "Van Nest",
+    "lat": "0250858",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1021911",
+    "address": "2147 Barnes Avenue",
+    "latitude": 40.85484,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149140022e82",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 11:00 AM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "81+137+143",
+    "facility_name": "Wakefield Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10466",
+    "longitude": -73.85949099999999,
+    "label": "Wakefield",
+    "lat": "0263943",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1023002",
+    "address": "4100 Lowerre Place",
+    "latitude": 40.891084,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149240022e83",
+    "features": [
+      {
+        "feature_name": "Adult Literacy"
+      },
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Closed for renovation.",
+    "state": "NY",
+    "value": "82",
+    "facility_name": "Washington Heights Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10032",
+    "longitude": -73.939651,
+    "label": "Washington Heights",
+    "lat": "0243334",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "1000851",
+    "address": "1000 St. Nicholas Avenue",
+    "latitude": 40.834517,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149d40022ebe",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 11:00 AM - 6:00 PM; Tue: 12:00 PM - 7:00 PM; Wed: 11:00 AM - 6:00 PM; Thu: 12:00 PM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "83+458",
+    "facility_name": "Webster Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10021",
+    "longitude": -73.951369,
+    "label": "Webster",
+    "lat": "0219989",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0997792",
+    "address": "1465 York Avenue",
+    "latitude": 40.770655,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149e40022ebf",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "Senior Programs"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon - Tue: 10:00 AM - 6:00 PM; Wed - Thu: 11:00 AM - 7:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "84+5312+510+508",
+    "facility_name": "West Farms Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10460",
+    "longitude": -73.88288779999999,
+    "label": "West Farms",
+    "lat": "0247006",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1016684",
+    "address": "2085 Honeywell Avenue",
+    "latitude": 40.8446175,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149240022e85",
+    "features": [
+      {
+        "feature_name": "Computers"
+      },
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "STATEN ISLAND",
+    "additional_address_information": "",
+    "description": "Staten Island branch of the New York Public Library system. This location is temporarily closed due to damage from Hurricane Sandy.",
+    "displayed_hours": "Mon - Tue: 11:00 AM - 6:00 PM; Wed: 12:00 PM - 8:00 PM; Thu: 11:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "85+976+407",
+    "facility_name": "West New Brighton Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "STATEN ISLAND",
+    "zipcode": "10310",
+    "longitude": -74.11479899999999,
+    "label": "West New Brighton",
+    "lat": "0170553",
+    "brief_description": "Staten Island New York Public Library branch.",
+    "long": "0952414",
+    "address": "976 Castleton Avenue",
+    "latitude": 40.6344459,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149540022e96",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed: 12:00 PM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri: 12:00 PM - 5:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "86+267+266",
+    "facility_name": "Westchester Square Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10461",
+    "longitude": -73.8465787,
+    "label": "Westchester Square",
+    "lat": "0245653",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1026721",
+    "address": "2521 Glebe Avenue",
+    "latitude": 40.8407714,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149240022e86",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      },
+      {
+        "feature_name": "English Classes"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed - Thu: 10:00 AM - 6:00 PM; Fri: 10:00 AM - 5:00 PM; Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "87",
+    "facility_name": "Woodlawn Heights Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10470",
+    "longitude": -73.8677685,
+    "label": "Woodlawn Heights",
+    "lat": "0267394",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1020809",
+    "address": "4355 Katonah Avenue",
+    "latitude": 40.9005724,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149240022e87",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "BRONX",
+    "additional_address_information": "",
+    "description": "Bronx branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 10:00 AM - 6:00 PM; Tue: 11:00 AM - 7:00 PM; Wed: 10:00 AM - 6:00 PM; Thu: 11:00 AM - 7:00 PM; Fri. - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "88",
+    "facility_name": "Woodstock Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "BRONX",
+    "zipcode": "10456",
+    "longitude": -73.90460999999999,
+    "label": "Woodstock",
+    "lat": "0238202",
+    "brief_description": "Bronx New York Public Library branch.",
+    "long": "1010630",
+    "address": "761 East 160th Street",
+    "latitude": 40.820711,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149340022e88",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  },
+  {
+    "city": "NEW YORK",
+    "additional_address_information": "",
+    "description": "Manhattan branch of the New York Public Library system.",
+    "displayed_hours": "Mon: 12:00 PM - 7:00 PM; Tue: 10:00 AM - 6:00 PM; Wed: 12:00 PM - 7:00 PM; Thu: 10:00 AM - 6:00 PM; Fri - Sat: 10:00 AM - 5:00 PM",
+    "state": "NY",
+    "value": "89+285+286",
+    "facility_name": "Yorkville Library",
+    "expiration": "12-31-2099T00:00:00Z",
+    "borough": "MANHATTAN",
+    "zipcode": "10021",
+    "longitude": -73.9564089,
+    "label": "Yorkville",
+    "lat": "0221263",
+    "brief_description": "Manhattan New York Public Library branch.",
+    "long": "0996267",
+    "address": "222 East 79th Street",
+    "latitude": 40.773592,
+    "eligibility_information": "",
+    "type": "Library",
+    "id": "2002-12-06-16-20-05_000010083df1149e40022ec0",
+    "features": [
+      {
+        "feature_name": "Early Childhood Discussions"
+      }
+    ]
+  }
+]

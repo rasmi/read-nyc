@@ -1,0 +1,4 @@
+scripts/
+api/credentials.py
+*.db
+*.pyc
